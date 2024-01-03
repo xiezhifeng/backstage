@@ -12152,11 +12152,11 @@ __metadata:
   linkType: hard
 
 "@keyv/redis@npm:^2.5.3":
-  version: 2.8.0
-  resolution: "@keyv/redis@npm:2.8.0"
+  version: 2.8.2
+  resolution: "@keyv/redis@npm:2.8.2"
   dependencies:
     ioredis: ^5.3.2
-  checksum: 753e18897bf8e1fed585357d85749c7a1689f5efc1eb7114e790bf760460f7f510d5e76da5cc742269949205c18aad3c58ce4f8ceef5db0ace4ee108833632ba
+  checksum: e3e6bded42b3e9efebe8802d102064ac420389f7ee94fdb4af70a1eb24f739431d42bdcc7fd463f5c9130f3a07870e268637d51b50c34c403b26eab2cf14e534
   languageName: node
   linkType: hard
 

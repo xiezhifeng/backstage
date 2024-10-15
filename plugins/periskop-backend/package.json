@@ -43,9 +43,9 @@
   "dependencies": {
     "@backstage/backend-common": "workspace:^",
     "@backstage/backend-plugin-api": "workspace:^",
-    "@backstage/config": "workspace:^",
+    "@backstage/config": "0.1.1",
     "@types/express": "*",
-    "express": "^4.17.1",
+    "express": "^4.21.1",
     "express-promise-router": "^4.1.0",
     "node-fetch": "^2.6.7",
     "winston": "^3.2.1",

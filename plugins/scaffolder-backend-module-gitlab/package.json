@@ -35,7 +35,7 @@
     "@backstage/config": "workspace:^",
     "@backstage/errors": "workspace:^",
     "@backstage/integration": "workspace:^",
-    "@backstage/plugin-scaffolder-node": "workspace:^",
+    "@backstage/plugin-scaffolder-node": "0.4.12",
     "@gitbeaker/core": "^35.8.0",
     "@gitbeaker/node": "^35.8.0",
     "yaml": "^2.0.0",

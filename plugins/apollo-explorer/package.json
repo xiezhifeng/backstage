@@ -29,7 +29,7 @@
     "postpack": "backstage-cli package postpack"
   },
   "dependencies": {
-    "@apollo/explorer": "^3.0.0",
+    "@apollo/explorer": "^3.7.3",
     "@backstage/core-components": "workspace:^",
     "@backstage/core-plugin-api": "workspace:^",
     "@material-ui/core": "^4.12.2",
